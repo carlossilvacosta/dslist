@@ -28,11 +28,11 @@ git clone https://github.com/carlossilvacosta/dslist
 
 ## Rotas
 
-- `GET Games` - Busca a lista de jogos;
-- `GET Games by ID` - Busca um jogo por meio do ID;
-- `GET Lists` - Busca a categoria das listas de jogos;
-- `GET Lists by ID from Games` - Busca a lista categorizado pelo gênero (ID) do jogos;
-- `POST Lists Replacement` - Permite o usuário organizar a lista da maneira que preferir.
+- `GET Games` - Busca por todos os jogos;
+- `GET Games by id` - Busca um jogo pelo id;
+- `GET Game lists` - Busca as categorias de jogos;
+- `GET Game by lists` - Busca os jogas da categoria pelo pelo id da lista;
+- `POST Lists replacement` - Permite o usuário organizar a lista da maneira que preferir.
 
 ## Conecte-se Comigo
 
