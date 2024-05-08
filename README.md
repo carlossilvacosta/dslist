@@ -7,7 +7,7 @@ Uma aplicação backend que tem como proposta ser uma pesquisa de games, onde os
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
-## Configurações
+## Como executar o projeto?
 Pré-requisitos: Java Version 21
 
 ```bash
