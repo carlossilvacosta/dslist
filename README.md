@@ -32,7 +32,34 @@ git clone https://github.com/carlossilvacosta/dslist
 - `GET Games by id` - Busca um jogo pelo id;
 - `GET Game lists` - Busca as categorias de jogos;
 - `GET Game by lists` - Busca os jogas da categoria pelo pelo id da lista;
-- `POST Lists replacement` - Permite o usuário organizar a lista da maneira que preferir.
+- `POST List replacement` - Permite o usuário organizar a lista da maneira que preferir.
+
+## Postman
+
+- `GET Games` - Busca por todos os jogos;
+
+![GET Games](https://github.com/carlossilvacosta/dslist/blob/main/imgs-readme.md/foto01.png)
+
+
+- `GET Games by id` - Busca um jogo pelo id;
+
+![GET Games by id](https://github.com/carlossilvacosta/dslist/blob/main/imgs-readme.md/foto02.png)
+
+
+- `GET Game lists` - Busca as categorias de jogos;
+
+![GET Games lists](https://github.com/carlossilvacosta/dslist/blob/main/imgs-readme.md/foto03.png)
+
+
+- `GET Game by lists` - Busca os jogas da categoria pelo pelo id da lista;
+
+![GET Games by lists](https://github.com/carlossilvacosta/dslist/blob/main/imgs-readme.md/foto04.png)
+
+
+- `POST List replacement` - Permite o usuário organizar a lista da maneira que preferir.
+
+![GET List replacement](https://github.com/carlossilvacosta/dslist/blob/main/imgs-readme.md/foto05.png)
+
 
 ## Conecte-se Comigo
 
